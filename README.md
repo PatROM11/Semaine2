@@ -13,3 +13,5 @@ Learn JavaScript 37%
 Make website     50%
 
 Learn Git       100%
+
+#### CV = index.html
