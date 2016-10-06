@@ -1,6 +1,6 @@
 # Semaine2
 ## Patrick ROMAIN
-#### CODECADEMY : [***Profil***](https://www.codecademy.com/PatrickROMAIN) --- [***Badges***](https://www.codecademy.com/users/PatrickROMAIN/achievements)
+#### Liens Codecademy : [***PROFIL***](https://www.codecademy.com/PatrickROMAIN) --- [***BADGES***](https://www.codecademy.com/users/PatrickROMAIN/achievements)
 
 
 
